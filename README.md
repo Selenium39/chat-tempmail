@@ -53,6 +53,7 @@ ChatTempMail is a modern temporary email service platform that integrates powerf
 ### 🔧 Advanced Features
 - **Webhook Integration**: Support for custom webhooks to enable email event notifications
 - **API Interface**: Complete RESTful API supporting third-party integration
+- **Email Forwarding**: Automatically forward received emails to your regular email address
 - **Multi-Language Support**: Internationalization support, currently supporting Chinese, English, Japanese, and Korean
 - **Responsive Design**: Perfect adaptation for desktop and mobile devices
 - **PWA Support**: Support for installation as a desktop application
